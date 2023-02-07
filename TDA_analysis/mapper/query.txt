@@ -1,0 +1,17 @@
+# // https://github.com/mckaycr/open-payments 
+# https://github.com/unethical-physician-predictions/open-payments/tree/master/code
+# https://github.com/mmarks13/209_Data_Visualization
+# https://aws.amazon.com/blogs/big-data/introduction-to-python-udfs-in-amazon-redshift/
+# https://www.prontezza.com/health_care_dollars/health-care-data-prep/
+# https://github.com/nkrishnaswami/w209-final
+
+# https://github.com/npatta01/get-better-with-data-open-payment
+# https://github.com/mxtomoto/CMS-Open-Payments-Data-Analysis
+# https://github.com/mckaycr/open-payments
+# https://github.com/JarrodAJ/open-payments-shiny
+# https://github.com/amkessler/docs_openpayments
+# https://github.com/amkessler/docs_openpayments
+
+# Datasets
+#  https://openpaymentsdata.cms.gov/datasets?sort%5B0%5D=temporal&sort%5B1%5D=title&sortOrder%5B0%5D=desc&sortOrder%5B1%5D=asc&keyword%5B0%5D=2020
+#  https://openpaymentsdata.cms.gov/dataset/9c248e7e-7c7f-478b-ab84-ce0919d72c1c/data
