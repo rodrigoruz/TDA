@@ -116,7 +116,7 @@ plt.legend(['wasserstein distances', 'S&P 500 (scaled)', 'Crash of 2020'])
 plt.xlabel('Date')
 plt.title('Homology Changes Predicted Crash??')
 
-plt.savefig("homology_example_Homology-Changes-Predicted-Crash??.png", dpi='figure', format=None, metadata=None,
+plt.savefig("homology_example_Homology-Changes-Predicted-Crash.png", dpi='figure', format=None, metadata=None,
         bbox_inches=None, pad_inches=0.1,
         facecolor='white', edgecolor='auto')
 
